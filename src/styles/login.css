@@ -1,0 +1,45 @@
+.loginbox {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.loginbutton {
+  font-size: 20px;
+  box-shadow: inset 0px 1px 0px 0px #7a8eb9;
+  background: linear-gradient(to bottom, #637aad 5%, #5972a7 100%);
+  background-color: #637aad;
+  border: 1px solid #314179;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-weight: bold;
+  padding: 2px 12px;
+  text-decoration: none;
+  outline: none;
+  margin-top: 30px;
+  border-radius: 15px;
+}
+
+.loginbutton:hover {
+  background: linear-gradient(to bottom, #5972a7 5%, #637aad 100%);
+  background-color: #5972a7;
+}
+
+.loginbutton:active {
+  position: relative;
+  top: 3px;
+}
+
+.loginfield {
+  padding: 15px;
+  border-radius: 15px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#username {
+  margin-top: 80px;
+}

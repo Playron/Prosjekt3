@@ -1,0 +1,17 @@
+.theme {
+    display: table;
+    position: absolute;
+}
+
+.title {
+    display: table;
+    margin: 0 auto;
+    height: 50px;
+    margin-bottom: 60px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+h1 h4 {
+    position: relative;
+}
